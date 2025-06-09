@@ -39,5 +39,14 @@ Low.
 ![Screenshot 2025-06-06 183702](https://github.com/user-attachments/assets/3af29266-5936-4d90-991c-86c30e0b0d7b)
 ![Screenshot 2025-06-06 183707](https://github.com/user-attachments/assets/406f96e9-f99b-42e2-a4a1-9b3c4a7ec97b)
 ![Screenshot 2025-06-06 183727](https://github.com/user-attachments/assets/87e61700-3a97-4bb5-b8ea-53c2d3eebb27)
-![Screenshot 2025-06-06 220442](https://github.com/user-attachments/assets/57bff73a-95e3-447b-9a82-a4616a21301f)
+
+# 5. Conclusion & Recommendation
+The analysis shows a strong concentration of properties in the Low price tier, which may
+indicate affordability trends or market saturation in that segment. Properties with added
+features like AC, basements, and furnishing tend to skew towards Medium or High pricing.
+Recommendations:
+
+● Real estate developers can target Medium-tier improvements to raise property value.
+● Agents should highlight basement and AC status in listings to attract higher offers.
+● Future analysis should include location-specific data for deeper insights.
 
