@@ -35,4 +35,9 @@ Low.
 # The Dashboard
 ![Screenshot 2025-06-04 131811](https://github.com/user-attachments/assets/6543b352-e0af-42e5-acb0-3ac2ef031811)
 
- 
+# The Tables 
+![Screenshot 2025-06-06 183702](https://github.com/user-attachments/assets/3af29266-5936-4d90-991c-86c30e0b0d7b)
+![Screenshot 2025-06-06 183707](https://github.com/user-attachments/assets/406f96e9-f99b-42e2-a4a1-9b3c4a7ec97b)
+![Screenshot 2025-06-06 183727](https://github.com/user-attachments/assets/87e61700-3a97-4bb5-b8ea-53c2d3eebb27)
+![Screenshot 2025-06-06 220442](https://github.com/user-attachments/assets/57bff73a-95e3-447b-9a82-a4616a21301f)
+
